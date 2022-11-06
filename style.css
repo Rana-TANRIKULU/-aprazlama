@@ -1,0 +1,49 @@
+body {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.middle {
+  display: flex;
+  justify-content: space-around;
+}
+.bottom {
+  display: flex;
+  justify-content: flex-end;
+  gap: 40vw;
+}
+.kt1 {
+  display: flex;
+  justify-content: space-between;
+}
+.kt2 {
+  display: flex;
+  justify-content: center;
+}
+.kt3 {
+  display: flex;
+  justify-content: flex-end;
+}
+.kt4 {
+  flex-direction: row;
+  display: flex;
+  justify-content: flex-start;
+}
+.kt5 {
+  display: flex;
+  justify-content: center;
+}
+.kt6 {
+  display: flex;
+  justify-content: flex-end;
+}
+.kt7 {
+  display: flex;
+  justify-content: space-between;
+}
